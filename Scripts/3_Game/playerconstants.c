@@ -18,14 +18,14 @@ modded class PlayerConstants {
 	static const float SL_BLOOD_HIGH = 4500;
 	
 	static const float SL_ENERGY_CRITICAL = 0;
-	static const float SL_ENERGY_LOW = 400;
-	static const float SL_ENERGY_NORMAL = 2000;
+	static const float SL_ENERGY_LOW = 1000;
+	static const float SL_ENERGY_NORMAL = 3000;
 	static const float SL_ENERGY_HIGH = 9000;
 	
 	static const float SL_WATER_CRITICAL = 0;   //below is flashing red and lose health two arrow
-	static const float SL_WATER_LOW = 400;      //below is red and lose health one arrow
-	static const float SL_WATER_NORMAL = 1100;   //below is yellow
-	static const float SL_WATER_HIGH = 4000;    //below is quarter from full, above is full
+	static const float SL_WATER_LOW = 500;      //below is red and lose health one arrow
+	static const float SL_WATER_NORMAL = 1500;   //below is yellow
+	static const float SL_WATER_HIGH = 4500;    //below is quarter from full, above is full
 
     static const float LOW_WATER_THRESHOLD =    PlayerConstants.SL_WATER_LOW;	//threshold from which water affects health
 	static const float LOW_ENERGY_THRESHOLD =   PlayerConstants.SL_ENERGY_LOW;	//threshold from which energy affects health;	
