@@ -13,7 +13,6 @@ class CfgMods
 {
 	class IntenZPack
 	{
-		
 		dir = "IntenZPack";
 		picture = "";
 		action = "";
@@ -33,17 +32,17 @@ class CfgMods
 			class gameScriptModule
 			{
 				value = "";
-				files[] = {"IntenZPack/3_Game"};
+				files[] = {"IntenZPack/Addons/Scripts/3_Game"};
 			};
 			class worldScriptModule
 			{
 				value = "";
-				files[] = {"IntenZPack/4_World"};
+				files[] = {"IntenZPack/Addons/Scripts/4_World"};
 			};
 			class missionScriptModule
 			{
 				value = "";
-				files[] = {"IntenZPack/5_Mission"};
+				files[] = {"IntenZPack/Addons/Scripts/5_Mission"};
 			};
 		};
 	};
