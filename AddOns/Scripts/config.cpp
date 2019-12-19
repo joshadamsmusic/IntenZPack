@@ -1,6 +1,6 @@
 class CfgPatches
 {
-	class IntenZPack_scripts
+	class IntenZ_scripts
 	{
 		units[]={};
 		weapons[]={};
@@ -13,17 +13,6 @@ class CfgMods
 {
 	class IntenZPack
 	{
-		dir = "IntenZPack";
-		picture = "";
-		action = "";
-		hideName = 1;
-		hidePicture = 1;
-		name = "IntenZPack";
-		credits = "0";
-		author = "0";
-		authorID = "0"; 
-		version = ""; 
-		extra = 0;
 		type = "mod";
 		dependencies[] = {"Game", "World", "Mission"};
 		
@@ -32,17 +21,17 @@ class CfgMods
 			class gameScriptModule
 			{
 				value = "";
-				files[] = {"IntenZPack/Addons/Scripts/3_Game"};
+				files[] = {"IntenZ_Scripts\3_Game"};
 			};
 			class worldScriptModule
 			{
 				value = "";
-				files[] = {"IntenZPack/Addons/Scripts/4_World"};
+				files[] = {"IntenZ_Scripts\4_World"};
 			};
 			class missionScriptModule
 			{
 				value = "";
-				files[] = {"IntenZPack/Addons/Scripts/5_Mission"};
+				files[] = {"IntenZ_Scripts\5_Mission"};
 			};
 		};
 	};
