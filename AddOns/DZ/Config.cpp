@@ -16,7 +16,7 @@ class CfgPatches
 			"ShotgunIzh18","ShotgunIzh18_Sawedoff",
 			"ShotgunMp133","ShotgunMp133_Pistol_Grip",
 			"Ruger1022","Trumpet","mkii",
-			
+
 			"Colt1911","1911_Engraved",
 			"CZ75","DE_Gold","FNX45","Glock19","LongHorn","magnum","P1","ij70","Red9",
 			"SmokeGrenade","FlashGrenade","Grenade","GrenadeRDG5","smokegrenade_rdg2"
@@ -43,6 +43,6 @@ class CfgMods
 	};
 };
 
-#include "Configs\cfgAmmo.hpp"
-#include "Configs\cfgWeapons.hpp"
-#include "Configs\cfgVehicles.hpp"
+#include "CfgAmmo\Cfg.hpp"
+#include "CfgWeapons\Cfg.hpp"
+#include "CfgVehicles\Cfg.hpp" 
