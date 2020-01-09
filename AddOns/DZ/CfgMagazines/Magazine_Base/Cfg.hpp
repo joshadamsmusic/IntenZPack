@@ -1,27 +1,27 @@
 class Mag_FNX45_15Rnd: Magazine_Base
 {
-	displayName="$STR_iz_cfgMagazines_Mag_FNX45_15Rnd0";
-	descriptionShort="$STR_iz_cfgMagazines_Mag_FNX45_15Rnd1";
+	displayName="$STR_iz_CfgMagazines_Mag_FNX45_15Rnd0";
+	descriptionShort="$STR_iz_CfgMagazines_Mag_FNX45_15Rnd1";
 };
 class Mag_357Speedloader_6Rnd: Magazine_Base
 {
-	displayName="$STR_iz_cfgMagazines_Mag_357Speedloader_6Rnd0";
-	descriptionShort="$STR_iz_cfgMagazines_Mag_357Speedloader_6Rnd1";
+	displayName="$STR_iz_CfgMagazines_Mag_357Speedloader_6Rnd0";
+	descriptionShort="$STR_iz_CfgMagazines_Mag_357Speedloader_6Rnd1";
 };
 class Mag_DE_9rnd: Magazine_Base
 {
-	displayName="$STR_iz_cfgMagazines_Mag_DE_9rnd0";
-	descriptionShort="$STR_iz_cfgMagazines_Mag_DE_9rnd1";
+	displayName="$STR_iz_CfgMagazines_Mag_DE_9rnd0";
+	descriptionShort="$STR_iz_CfgMagazines_Mag_DE_9rnd1";
 };
 class Mag_1911_7Rnd: Magazine_Base
 {
-	displayName="$STR_iz_cfgMagazines_Mag_1911_7Rnd0";
-	descriptionShort="$STR_iz_cfgMagazines_Mag_1911_7Rnd1";
+	displayName="$STR_iz_CfgMagazines_Mag_1911_7Rnd0";
+	descriptionShort="$STR_iz_CfgMagazines_Mag_1911_7Rnd1";
 };
 class Mag_CZ75_15Rnd: Magazine_Base
 {
-	displayName="$STR_iz_cfgMagazines_Mag_CZ75_15Rnd0";
-	descriptionShort="$STR_iz_cfgMagazines_Mag_CZ75_15Rnd1";
+	displayName="$STR_iz_CfgMagazines_Mag_CZ75_15Rnd0";
+	descriptionShort="$STR_iz_CfgMagazines_Mag_CZ75_15Rnd1";
 };
 class Mag_Glock_15Rnd: Magazine_Base
 {

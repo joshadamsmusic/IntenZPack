@@ -5,12 +5,7 @@ class CfgVehicles
 	
 	class Inventory_Base;
 	#include "Inventory_Base\Cfg.hpp"
-	
-	
-	class DefaultMagazine;
-	class Magazine_Base: DefaultMagazine {};
-	#include "Magazine_Base\Cfg.hpp"
-	
+
 	class Car;
 	#include "Car\Cfg.hpp"
 };

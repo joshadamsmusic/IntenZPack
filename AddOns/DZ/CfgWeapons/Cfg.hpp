@@ -17,4 +17,4 @@ class cfgWeapons
 	
 	class Launcher_Base;
 	#include "Launcher_Base\Cfg.hpp"
-}; 
+};

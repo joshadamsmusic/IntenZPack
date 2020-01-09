@@ -1,10 +1,10 @@
 name = 		"IntenZPack"; 						// name 
-picture = 	"IntenZ_Logos\Logo.tga";			// picture in expanded description
-logoSmall = "IntenZ_Logos\Logo_small.tga";		// icon next to mod name when description is not expanded
-logo = 		"IntenZ_Logos\Logo.tga";			// logo below game menu
-logoOver = 	"IntenZ_Logos\Logo.tga";			// on mouse hover over logo
+picture = 	"IntenZ_Images\Logos\Big.tga";		// picture in expanded description
+logoSmall = "IntenZ_Images\Logos\Small.tga";	// icon next to mod name when description is not expanded
+logo = 		"IntenZ_Images\Logos\Small.tga";	// logo below game menu
+logoOver = 	"IntenZ_Images\Logos\Small.tga";	// on mouse hover over logo
 tooltip = 	"Server mod for IntenZ";			// tool tip on mouse hover
 overview = 	"You are looking for immersion?"; 	// overview
 action = 	"www.DayZIntenZ.com";
 author = 	"QuickZ & Streatman";
-version = 	"2.0";
+version = 	"3.0";
