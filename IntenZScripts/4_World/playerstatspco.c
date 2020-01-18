@@ -13,3 +13,4 @@ modded class PlayerStatsPCO_v106 {
 		RegisterStat(EPlayerStats_v106.TOXICITY,  		new PlayerStat<float>	(0,						100,					0,						"Toxicity",			EPSstatsFlags.EMPTY) );
 	}
 }
+
