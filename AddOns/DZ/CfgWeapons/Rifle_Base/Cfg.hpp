@@ -89,7 +89,7 @@ class PM73Rak_Base: Rifle_Base {};
 class Repeater_Base: Rifle_Base {};
 	class Repeater: Repeater_Base
 	{
-		displayName="Winchester Model 1892";
+		displayName="$STR_iz_cfgWeapons_Repeater0";
 		descriptionShort="$STR_iz_cfgWeapons_Repeater1";
 	};
 class Ruger1022_Base: Rifle_Base {};

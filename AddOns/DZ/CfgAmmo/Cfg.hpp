@@ -90,7 +90,7 @@ class CfgAmmo
 			dispersion=0;
 			bleedThreshold=1;
 			defaultDamageOverride[]={{0.5,1}};
-			class Health{damage= 49;};	// 80
+			class Health{damage= 65;};	// 80
 			class Blood {damage=100;};	//100
 			class Shock {damage= 78;};	//  0
 		};
