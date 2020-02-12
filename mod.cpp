@@ -7,4 +7,3 @@ tooltip = 	"Server mod for IntenZ";			// tool tip on mouse hover
 overview = 	"You are looking for immersion?"; 	// overview
 action = 	"www.DayZIntenZ.com";
 author = 	"QuickZ & Streatman";
-version = 	"3.0";

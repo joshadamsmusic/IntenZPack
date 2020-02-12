@@ -2,7 +2,7 @@ class CfgPatches
 {
 	class IntenZ_scripts
 	{
-		requiredAddons[]={};
+		requiredAddons[] = {};
 	};
 };
 
@@ -18,17 +18,17 @@ class CfgMods
 			class gameScriptModule
 			{
 				value = "";
-				files[] = {"IntenZScripts/3_Game"};
+				files[] = {"IntenZ_Scripts/3_Game"};
 			};
 			class worldScriptModule
 			{
 				value = "";
-				files[] = {"IntenZScripts/4_World"};
+				files[] = {"IntenZ_Scripts/4_World"};
 			};
 			class missionScriptModule
             {
-                value="";
-                files[]={"IntenZScripts/5_mission"};
+                value = "";
+                files[] = {"IntenZ_Scripts/5_mission"};
             };
 		};
 	};

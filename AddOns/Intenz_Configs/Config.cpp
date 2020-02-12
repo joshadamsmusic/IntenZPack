@@ -1,6 +1,6 @@
 class CfgPatches
 {
-	class IntenZ_DZ
+	class IntenZ_Configs
 	{
 		units[] = {};
 		weapons[] = {};
