@@ -22,7 +22,9 @@ class CfgPatches
 			"DZ_Weapons_Shotguns",
 			
 			"DZ_Vehicles_Parts",
-			"DZ_Vehicles_Wheeled"
+			"DZ_Vehicles_Wheeled",
+			
+			"DZ_Sounds_Effects"
 		};
 	};
 };
@@ -39,3 +41,5 @@ class CfgMods
 #include "CfgMagazines\Cfg.hpp"
 #include "CfgVehicles\Cfg.hpp"
 #include "CfgWeapons\Cfg.hpp"
+
+#include "CfgSoundShaders\Cfg.hpp"
