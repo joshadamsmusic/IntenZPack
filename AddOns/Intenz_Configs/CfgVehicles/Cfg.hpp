@@ -8,7 +8,4 @@ class CfgVehicles
 
 	class Car;
 	#include "Car\Cfg.hpp"
-	
-	class DZ_LightAI;
-	#include "AnimalBase\Cfg.hpp"
 };
