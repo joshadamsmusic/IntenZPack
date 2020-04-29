@@ -22,7 +22,6 @@ class CfgPatches
 			"DZ_Weapons_Shotguns",			
 			"DZ_Vehicles_Parts",
 			"DZ_Vehicles_Wheeled",
-			"DZ_Animals",			
 			"DZ_Sounds_Effects"
 		};
 	};
