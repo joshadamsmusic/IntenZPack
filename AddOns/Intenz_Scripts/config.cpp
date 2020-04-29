@@ -26,10 +26,10 @@ class CfgMods
 				files[] = {"IntenZ_Scripts/4_World"};
 			};
 			class missionScriptModule
-            {
-                value = "";
-                files[] = {"IntenZ_Scripts/5_mission"};
-            };
+			{
+				value = "";
+				files[] = {"IntenZ_Scripts/5_mission"};
+			};
 		};
 	};
 };
