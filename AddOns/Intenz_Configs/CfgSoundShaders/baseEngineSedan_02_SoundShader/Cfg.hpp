@@ -8,45 +8,45 @@ class Sedan_02_Engine_Ext_Rpm0_SoundShader: baseEngineSedan_02_SoundShader
 };
 class Sedan_02_Engine_Ext_Rpm1_SoundShader: baseEngineSedan_02_SoundShader
 {
-	range=95;
+	range=100;
 };
 class Sedan_02_Engine_Offload_Ext_Rpm1_SoundShader: baseEngineSedan_02_SoundShader
 {
-	range=110;
+	range=120;
 };
 class Sedan_02_Engine_Ext_Rpm2_SoundShader: baseEngineSedan_02_SoundShader
 {
-	range=125;
+	range=140;
 };
 class Sedan_02_Engine_Offload_Ext_Rpm2_SoundShader: baseEngineSedan_02_SoundShader
 {
-	range=140;
+	range=160;
 };
 class Sedan_02_Engine_Ext_Rpm3_SoundShader: baseEngineSedan_02_SoundShader
 {
-	range=155;
+	range=180;
 };
 class Sedan_02_Engine_Offload_Ext_Rpm3_SoundShader: baseEngineSedan_02_SoundShader
 {
-	range=170;
+	range=200;
 };
 class Sedan_02_Engine_Ext_Rpm4_SoundShader: baseEngineSedan_02_SoundShader
 {
-	range=185;
+	range=220;
 };
 class Sedan_02_Engine_Offload_Ext_Rpm4_SoundShader: baseEngineSedan_02_SoundShader
 {
-	range=200;
+	range=240;
 };
 class Sedan_02_Engine_Ext_Rpm5_SoundShader: baseEngineSedan_02_SoundShader
 {
-	range=215;
+	range=260;
 };
 class Sedan_02_Engine_Offload_Ext_Rpm5_SoundShader: baseEngineSedan_02_SoundShader
 {
-	range=230;
+	range=280;
 };
 class Sedan_02_Engine_Ext_Broken_SoundShader: baseEngineSedan_02_SoundShader
 {
-	range=245;
+	range=300;
 };

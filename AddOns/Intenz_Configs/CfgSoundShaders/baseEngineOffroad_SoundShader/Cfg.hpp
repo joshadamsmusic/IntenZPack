@@ -8,45 +8,45 @@ class Offroad_Engine_Ext_Rpm0_SoundShader: baseEngineOffroad_SoundShader
 };
 class Offroad_Engine_Ext_Rpm1_SoundShader: baseEngineOffroad_SoundShader
 {
-	range=95;
+	range=100;
 };
 class Offroad_Engine_Offload_Ext_Rpm1_SoundShader: baseEngineOffroad_SoundShader
 {
-	range=110;
+	range=120;
 };
 class Offroad_Engine_Ext_Rpm2_SoundShader: baseEngineOffroad_SoundShader
 {
-	range=125;
+	range=140;
 };
 class Offroad_Engine_Offload_Ext_Rpm2_SoundShader: baseEngineOffroad_SoundShader
 {
-	range=140;
+	range=160;
 };
 class Offroad_Engine_Ext_Rpm3_SoundShader: baseEngineOffroad_SoundShader
 {
-	range=155;
+	range=180;
 };
 class Offroad_Engine_Offload_Ext_Rpm3_SoundShader: baseEngineOffroad_SoundShader
 {
-	range=170;
+	range=200;
 };
 class Offroad_Engine_Ext_Rpm4_SoundShader: baseEngineOffroad_SoundShader
 {
-	range=185;
+	range=220;
 };
 class Offroad_Engine_Offload_Ext_Rpm4_SoundShader: baseEngineOffroad_SoundShader
 {
-	range=200;
+	range=240;
 };
 class Offroad_Engine_Ext_Rpm5_SoundShader: baseEngineOffroad_SoundShader
 {
-	range=215;
+	range=260;
 };
 class Offroad_Engine_Offload_Ext_Rpm5_SoundShader: baseEngineOffroad_SoundShader
 {
-	range=230;
+	range=280;
 };
 class Offroad_Engine_Ext_Broken_SoundShader: baseEngineOffroad_SoundShader
 {
-	range=245;
+	range=300;
 };

@@ -4,27 +4,27 @@ class baseEngineCivilianSedan_SoundShader
 };
 class CivilianSedan_Engine_Ext_Rpm0_SoundShader: baseEngineCivilianSedan_SoundShader
 {
-	range=140;
+	range=80;
 };
 class CivilianSedan_Engine_Ext_Rpm1_SoundShader: baseEngineCivilianSedan_SoundShader
 {
-	range=150;
+	range=100;
 };
 class CivilianSedan_Engine_Offload_Ext_Rpm1_SoundShader: baseEngineCivilianSedan_SoundShader
 {
-	range=160;
+	range=120;
 };
 class CivilianSedan_Engine_Ext_Rpm2_SoundShader: baseEngineCivilianSedan_SoundShader
 {
-	range=170;
+	range=140;
 };
 class CivilianSedan_Engine_Offload_Ext_Rpm2_SoundShader: baseEngineCivilianSedan_SoundShader
 {
-	range=180;
+	range=160;
 };
 class CivilianSedan_Engine_Ext_Rpm3_SoundShader: baseEngineCivilianSedan_SoundShader
 {
-	range=190;
+	range=180;
 };
 class CivilianSedan_Engine_Offload_Ext_Rpm3_SoundShader: baseEngineCivilianSedan_SoundShader
 {
@@ -32,21 +32,21 @@ class CivilianSedan_Engine_Offload_Ext_Rpm3_SoundShader: baseEngineCivilianSedan
 };
 class CivilianSedan_Engine_Ext_Rpm4_SoundShader: baseEngineCivilianSedan_SoundShader
 {
-	range=210;
+	range=220;
 };
 class CivilianSedan_Engine_Offload_Ext_Rpm4_SoundShader: baseEngineCivilianSedan_SoundShader
 {
-	range=220;
+	range=240;
 };
 class CivilianSedan_Engine_Ext_Rpm5_SoundShader: baseEngineCivilianSedan_SoundShader
 {
-	range=230;
+	range=260;
 };
 class CivilianSedan_Engine_Offload_Ext_Rpm5_SoundShader: baseEngineCivilianSedan_SoundShader
 {
-	range=240;
+	range=280;
 };
 class CivilianSedan_Engine_Ext_Broken_SoundShader: baseEngineCivilianSedan_SoundShader
 {
-	range=250;
+	range=300;
 };
