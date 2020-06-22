@@ -1,4 +1,4 @@
-modded class MainMenu
+/*modded class MainMenu
 {
     protected ImageWidget m_LogoImage;
     override Widget Init()
@@ -8,4 +8,4 @@ modded class MainMenu
         m_Newsfeed.HideNewsfeed();    
         return widgets;
     };
-};
+};/*

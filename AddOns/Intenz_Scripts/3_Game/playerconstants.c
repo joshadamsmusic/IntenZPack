@@ -18,7 +18,7 @@ modded class PlayerConstants {
 	static const float SL_BLOOD_HIGH = 4500;
 	
 	static const float SL_ENERGY_CRITICAL = 0;
-	static const float SL_ENERGY_LOW = 1000;
+	static const float SL_ENERGY_LOW = 500;
 	static const float SL_ENERGY_NORMAL = 3000;
 	static const float SL_ENERGY_HIGH = 9000;
 	
