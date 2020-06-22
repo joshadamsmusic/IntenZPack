@@ -2,7 +2,7 @@ class CfgPatches
 {
 	class IntenZ_scripts
 	{
-		requiredAddons[] = {};
+		requiredAddons[] = {"DZ_Data","DayZExpansion_Scripts"};
 	};
 };
 
@@ -11,7 +11,7 @@ class CfgMods
 	class IntenZPack
 	{
 		type = "mod";
-		dependencies[] = {"Game", "World"};
+		dependencies[] = {"Game","World","Mission"};
 		
 		class defs
 		{	

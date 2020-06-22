@@ -43,3 +43,4 @@ class CfgMods
 #include "CfgWeapons\Cfg.hpp"
 
 #include "CfgSoundShaders\Cfg.hpp"
+#include "CfgWorlds\Cfg.hpp"
