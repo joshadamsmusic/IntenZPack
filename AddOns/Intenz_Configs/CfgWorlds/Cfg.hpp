@@ -1,3 +1,4 @@
+/*
 class CfgWorlds
 {
 	class DefaultWorld
@@ -6,3 +7,4 @@ class CfgWorlds
 	};
 	#include "DefaultWorld\Cfg.hpp"
 };
+*/
