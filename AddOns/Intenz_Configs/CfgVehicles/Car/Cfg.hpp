@@ -1,3 +1,4 @@
+class Car;
 class CarScript: Car {};
 
 class OffroadHatchback: CarScript

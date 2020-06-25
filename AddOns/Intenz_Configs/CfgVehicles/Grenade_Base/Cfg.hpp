@@ -1,3 +1,5 @@
+class Grenade_Base;
+
 class RGD5Grenade: Grenade_Base
 {
 	displayName="$STR_iz_cfgvehicles_rgd5grenade0";

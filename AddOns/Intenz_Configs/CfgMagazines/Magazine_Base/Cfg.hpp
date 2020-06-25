@@ -1,3 +1,5 @@
+class Magazine_Base;
+
 class Mag_FNX45_15Rnd: Magazine_Base
 {
 	displayName="$STR_iz_CfgMagazines_Mag_FNX45_15Rnd0";

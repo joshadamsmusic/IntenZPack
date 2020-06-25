@@ -1,3 +1,5 @@
+class ItemSuppressor: Inventory_Base {};
+
 class Mosin_Compensator: ItemSuppressor
 {
 	displayName="$STR_iz_cfgVehicles_Mosin_Compensator0";

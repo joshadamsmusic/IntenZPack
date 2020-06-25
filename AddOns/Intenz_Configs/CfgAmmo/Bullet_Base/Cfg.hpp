@@ -1,4 +1,5 @@
-//Pistol
+class Bullet_Base;
+
 class Bullet_22: Bullet_Base
 {
 	class DamageApplied
@@ -64,7 +65,6 @@ class Bullet_357: Bullet_Base
 		class Shock {damage= 78;};	//  0
 	};
 };
-//Rifle
 class Bullet_9x39: Bullet_Base
 {
 	class DamageApplied

@@ -1,4 +1,4 @@
-class Weather: Weather
+class CAWorld: DefaultWorld
 {
 	#include "Weather\Cfg.hpp"
 };

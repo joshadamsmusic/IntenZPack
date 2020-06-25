@@ -1,14 +1,10 @@
-class CarWheel: Inventory_Base {};
+class Inventory_Base;
+
 #include "CarWheel\Cfg.hpp"
-
-class CarDoor: Inventory_Base {};
 #include "CarDoor\Cfg.hpp"
-
-class ItemOptics: Inventory_Base {};
 #include "ItemOptics\Cfg.hpp"
-
-class ItemSuppressor: Inventory_Base {};
 #include "ItemSuppressor\Cfg.hpp"
+#include "ItemMap\Cfg.hpp"
 
 class ItemBarrel: Inventory_Base {};
 class AK_Bayonet: Inventory_Base

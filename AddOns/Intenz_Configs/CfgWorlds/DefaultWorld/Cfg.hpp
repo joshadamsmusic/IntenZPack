@@ -1,4 +1,5 @@
-class CAWorld: DefaultWorld
+class DefaultWorld
 {
-	#include "CAWorld\Cfg.hpp"
+	class Weather;
 };
+#include "CAWorld\Cfg.hpp"

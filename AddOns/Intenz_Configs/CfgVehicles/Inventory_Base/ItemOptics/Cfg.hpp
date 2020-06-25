@@ -1,3 +1,5 @@
+class ItemOptics: Inventory_Base {};
+
 class M68Optic: ItemOptics
 {
 	displayName="$STR_iz_cfgVehicles_M68Optic0";

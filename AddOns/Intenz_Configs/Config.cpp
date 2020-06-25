@@ -13,6 +13,7 @@ class CfgPatches
 			"DZ_Characters_Tops",
 			
 			"DZ_Gear_Tools",
+			"DZ_Gear_Navigation",
 			
 			"DZ_Weapons_Ammunition",
 			"DZ_Weapons_Magazines",
@@ -49,4 +50,4 @@ class CfgMods
 #include "CfgWeapons\Cfg.hpp"
 
 #include "CfgSoundShaders\Cfg.hpp"
-#include "CfgWorlds\Cfg.hpp"
+///#include "CfgWorlds\Cfg.hpp"
