@@ -1,4 +1,4 @@
-class Armband_ColorBase: Clothing{};
+class Armband_ColorBase: Clothing {};
 
 class Intenz_Armband: Armband_ColorBase
 {

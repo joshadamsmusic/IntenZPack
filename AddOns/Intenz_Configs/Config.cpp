@@ -11,9 +11,11 @@ class CfgPatches
 			
 			"DZ_Characters",
 			"DZ_Characters_Tops",
+			"DZ_Characters_Vests",
 			
 			"DZ_Gear_Tools",
 			"DZ_Gear_Navigation",
+			"DZ_Gear_Containers",
 			
 			"DZ_Weapons_Ammunition",
 			"DZ_Weapons_Magazines",
