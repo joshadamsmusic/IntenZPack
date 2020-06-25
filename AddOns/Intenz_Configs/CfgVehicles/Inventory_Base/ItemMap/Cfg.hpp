@@ -10,6 +10,7 @@ class IntenZMap1: ChernarusMap
 		"Intenz_Images\Textures\Map\karta_side_co.paa"
 	};
 };
+class IntenZMap1_open: IntenZMap {};
 class IntenZMap2: ChernarusMap 
 {
 	hiddenSelectionsTextures[]=
@@ -19,6 +20,7 @@ class IntenZMap2: ChernarusMap
 		"Intenz_Images\Textures\Map\karta_side_co.paa"
 	};
 };
+class IntenZMap2_open: IntenZMap {};
 class IntenZMap3: ChernarusMap 
 {
 	hiddenSelectionsTextures[]=
@@ -28,6 +30,7 @@ class IntenZMap3: ChernarusMap
 		"Intenz_Images\Textures\Map\karta_side_co.paa"
 	};
 };
+class IntenZMap3_open: IntenZMap {};
 class IntenZMap4: ChernarusMap 
 {
 	hiddenSelectionsTextures[]=
@@ -37,3 +40,4 @@ class IntenZMap4: ChernarusMap
 		"Intenz_Images\Textures\Map\karta_side_co.paa"
 	};
 };
+class IntenZMap4_open: IntenZMap {};
