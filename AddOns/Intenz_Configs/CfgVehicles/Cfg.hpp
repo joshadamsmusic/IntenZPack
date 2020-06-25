@@ -8,4 +8,10 @@ class CfgVehicles
 
 	class Car;
 	#include "Car\Cfg.hpp"
+	
+	class Armband_ColorBase;
+	#include "Armbands\Cfg.hpp"
+	
+	class TShirt_ColorBase;
+	#include "Shirts\Cfg.hpp"
 };
