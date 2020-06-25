@@ -27,14 +27,17 @@ class CfgPatches
 			"DZ_Weapons_Explosives",
 			"DZ_Weapons_Firearms",
 			"DZ_Weapons_Launchers",
-			"DZ_Pistols",
 			"DZ_Weapons_Projectiles",
 			"DZ_Weapons_Shotguns",
+			
+			"DZ_Pistols",
 			
 			"DZ_Vehicles_Parts",
 			"DZ_Vehicles_Wheeled",
 			
-			"DZ_Sounds_Effects"
+			"DZ_Sounds_Effects",
+			
+			"DZ_Worlds_Chernarusplus_World"
 		};
 	};
 };
@@ -53,4 +56,4 @@ class CfgMods
 #include "CfgWeapons\Cfg.hpp"
 
 #include "CfgSoundShaders\Cfg.hpp"
-///#include "CfgWorlds\Cfg.hpp"
+#include "CfgWorlds\Cfg.hpp"
