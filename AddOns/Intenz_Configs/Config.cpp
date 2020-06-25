@@ -12,6 +12,7 @@ class CfgPatches
 			"DZ_Characters",
 			"DZ_Characters_Tops",
 			"DZ_Characters_Vests",
+			"DZ_Characters_Headgear",
 			
 			"DZ_Gear_Tools",
 			"DZ_Gear_Navigation",
