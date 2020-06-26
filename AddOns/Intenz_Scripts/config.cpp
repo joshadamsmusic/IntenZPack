@@ -2,7 +2,7 @@ class CfgPatches
 {
 	class IntenZ_scripts
 	{
-		requiredAddons[] = {"DZ_Data","DayZExpansion_Scripts"};
+		requiredAddons[] = {"DZ_Data"};
 	};
 };
 
