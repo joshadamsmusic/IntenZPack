@@ -10,9 +10,9 @@ class PlateCarrierHolster_IntenZ: PlateCarrierHolster
 	};
 	hiddenSelectionsTextures[]=
 	{
-		"Intenz_Images\Textures\PlateCarrier\Vest\IntenZ_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\IntenZ_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\IntenZ_co.paa"
+		"Intenz_Images\Textures\PlateCarrier\IntenZ_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\IntenZ_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\IntenZ_co.paa"
 	};
 };
 class PlateCarrierHolster_White: PlateCarrierHolster
@@ -25,9 +25,9 @@ class PlateCarrierHolster_White: PlateCarrierHolster
 	};
 	hiddenSelectionsTextures[]=
 	{
-		"Intenz_Images\Textures\PlateCarrier\Vest\White_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\White_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\White_co.paa"
+		"Intenz_Images\Textures\PlateCarrier\White_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\White_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\White_co.paa"
 	};
 };
 class PlateCarrierHolster_Black: PlateCarrierHolster
@@ -40,9 +40,9 @@ class PlateCarrierHolster_Black: PlateCarrierHolster
 	};
 	hiddenSelectionsTextures[]=
 	{
-		"Intenz_Images\Textures\PlateCarrier\Vest\Black_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\Black_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\Black_co.paa"
+		"Intenz_Images\Textures\PlateCarrier\Black_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\Black_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\Black_co.paa"
 	};
 };
 class PlateCarrierHolster_Grey: PlateCarrierHolster
@@ -55,9 +55,9 @@ class PlateCarrierHolster_Grey: PlateCarrierHolster
 	};
 	hiddenSelectionsTextures[]=
 	{
-		"Intenz_Images\Textures\PlateCarrier\Vest\Grey_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\Grey_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\Grey_co.paa"
+		"Intenz_Images\Textures\PlateCarrier\Grey_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\Grey_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\Grey_co.paa"
 	};
 };
 class PlateCarrierHolster_Blue: PlateCarrierHolster
@@ -70,9 +70,9 @@ class PlateCarrierHolster_Blue: PlateCarrierHolster
 	};
 	hiddenSelectionsTextures[]=
 	{
-		"Intenz_Images\Textures\PlateCarrier\Vest\Blue_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\Blue_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\Blue_co.paa"
+		"Intenz_Images\Textures\PlateCarrier\Blue_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\Blue_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\Blue_co.paa"
 	};
 };
 class PlateCarrierHolster_LightGreen: PlateCarrierHolster
@@ -85,9 +85,9 @@ class PlateCarrierHolster_LightGreen: PlateCarrierHolster
 	};
 	hiddenSelectionsTextures[]=
 	{
-		"Intenz_Images\Textures\PlateCarrier\Vest\Light_Green_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\Light_Green_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\Light_Green_co.paa"
+		"Intenz_Images\Textures\PlateCarrier\Light_Green_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\Light_Green_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\Light_Green_co.paa"
 	};
 };
 class PlateCarrierHolster_Green: PlateCarrierHolster
@@ -100,9 +100,9 @@ class PlateCarrierHolster_Green: PlateCarrierHolster
 	};
 	hiddenSelectionsTextures[]=
 	{
-		"Intenz_Images\Textures\PlateCarrier\Vest\Green_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\Green_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\Green_co.paa"
+		"Intenz_Images\Textures\PlateCarrier\Green_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\Green_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\Green_co.paa"
 	};
 };
 class PlateCarrierHolster_Dark_Green: PlateCarrierHolster
@@ -115,9 +115,9 @@ class PlateCarrierHolster_Dark_Green: PlateCarrierHolster
 	};
 	hiddenSelectionsTextures[]=
 	{
-		"Intenz_Images\Textures\PlateCarrier\Vest\Dark_Green_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\Dark_Green_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\Dark_Green_co.paa"
+		"Intenz_Images\Textures\PlateCarrier\Dark_Green_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\Dark_Green_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\Dark_Green_co.paa"
 	};
 };
 class PlateCarrierHolster_Brown: PlateCarrierHolster
@@ -130,8 +130,8 @@ class PlateCarrierHolster_Brown: PlateCarrierHolster
 	};
 	hiddenSelectionsTextures[]=
 	{		
-		"Intenz_Images\Textures\PlateCarrier\Vest\Brown_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\Brown_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\Brown_co.paa"
+		"Intenz_Images\Textures\PlateCarrier\Brown_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\Brown_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\Brown_co.paa"
 	};
 };

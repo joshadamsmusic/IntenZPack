@@ -11,9 +11,9 @@ class PlateCarrierPouches_IntenZ: PlateCarrierPouches
 	};
 	hiddenSelectionsTextures[]=
 	{
-		"Intenz_Images\Textures\PlateCarrier\Vest\IntenZ_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\IntenZ_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\IntenZ_co.paa"
+		"Intenz_Images\Textures\PlateCarrier\IntenZ_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\IntenZ_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\IntenZ_co.paa"
 	};
 };
 class PlateCarrierPouches_White: PlateCarrierPouches
@@ -26,9 +26,9 @@ class PlateCarrierPouches_White: PlateCarrierPouches
 	};
 	hiddenSelectionsTextures[]=
 	{
-		"Intenz_Images\Textures\PlateCarrier\Vest\White_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\White_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\White_co.paa"
+		"Intenz_Images\Textures\PlateCarrier\White_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\White_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\White_co.paa"
 	};
 };
 class PlateCarrierPouches_Black: PlateCarrierPouches
@@ -41,9 +41,9 @@ class PlateCarrierPouches_Black: PlateCarrierPouches
 	};
 	hiddenSelectionsTextures[]=
 	{
-		"Intenz_Images\Textures\PlateCarrier\Vest\Black_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\Black_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\Black_co.paa"
+		"Intenz_Images\Textures\PlateCarrier\Black_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\Black_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\Black_co.paa"
 	};
 };
 class PlateCarrierPouches_Grey: PlateCarrierPouches
@@ -56,9 +56,9 @@ class PlateCarrierPouches_Grey: PlateCarrierPouches
 	};
 	hiddenSelectionsTextures[]=
 	{
-		"Intenz_Images\Textures\PlateCarrier\Vest\Grey_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\Grey_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\Grey_co.paa"
+		"Intenz_Images\Textures\PlateCarrier\Grey_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\Grey_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\Grey_co.paa"
 	};
 };
 class PlateCarrierPouches_Blue: PlateCarrierPouches
@@ -71,9 +71,9 @@ class PlateCarrierPouches_Blue: PlateCarrierPouches
 	};
 	hiddenSelectionsTextures[]=
 	{
-		"Intenz_Images\Textures\PlateCarrier\Vest\Blue_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\Blue_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\Blue_co.paa"
+		"Intenz_Images\Textures\PlateCarrier\Blue_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\Blue_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\Blue_co.paa"
 	};
 };
 class PlateCarrierPouches_LightGreen: PlateCarrierPouches
@@ -86,9 +86,9 @@ class PlateCarrierPouches_LightGreen: PlateCarrierPouches
 	};
 	hiddenSelectionsTextures[]=
 	{
-		"Intenz_Images\Textures\PlateCarrier\Vest\Light_Green_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\Light_Green_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\Light_Green_co.paa"
+		"Intenz_Images\Textures\PlateCarrier\Light_Green_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\Light_Green_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\Light_Green_co.paa"
 	};
 };
 class PlateCarrierPouches_Green: PlateCarrierPouches
@@ -101,9 +101,9 @@ class PlateCarrierPouches_Green: PlateCarrierPouches
 	};
 	hiddenSelectionsTextures[]=
 	{
-		"Intenz_Images\Textures\PlateCarrier\Vest\Green_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\Green_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\Green_co.paa"
+		"Intenz_Images\Textures\PlateCarrier\Green_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\Green_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\Green_co.paa"
 	};
 };
 class PlateCarrierPouches_Dark_Green: PlateCarrierPouches
@@ -116,9 +116,9 @@ class PlateCarrierPouches_Dark_Green: PlateCarrierPouches
 	};
 	hiddenSelectionsTextures[]=
 	{
-		"Intenz_Images\Textures\PlateCarrier\Vest\Dark_Green_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\Dark_Green_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\Dark_Green_co.paa"
+		"Intenz_Images\Textures\PlateCarrier\Dark_Green_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\Dark_Green_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\Dark_Green_co.paa"
 	};
 };
 class PlateCarrierPouches_Brown: PlateCarrierPouches
@@ -131,8 +131,8 @@ class PlateCarrierPouches_Brown: PlateCarrierPouches
 	};
 	hiddenSelectionsTextures[]=
 	{		
-		"Intenz_Images\Textures\PlateCarrier\Vest\Brown_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\Brown_co.paa",
-		"Intenz_Images\Textures\PlateCarrier\Vest\Brown_co.paa"
+		"Intenz_Images\Textures\PlateCarrier\Brown_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\Brown_co.paa",
+		"Intenz_Images\Textures\PlateCarrier\Brown_co.paa"
 	};
 };
