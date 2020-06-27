@@ -1,6 +1,6 @@
 class Container_Base;
-class PlateCarrierPouches: Container_Base {};
 
+class PlateCarrierPouches: Container_Base {};
 class PlateCarrierPouches_IntenZ: PlateCarrierPouches
 {
 	hiddenSelections[]=
@@ -38,7 +38,7 @@ class PlateCarrierPouches_Black: PlateCarrierPouches
 		"camoGround",
 		"camoMale",
 		"camoFemale"
-	};	
+	};
 	hiddenSelectionsTextures[]=
 	{
 		"Intenz_Images\Textures\PlateCarrier\Vest\Black_co.paa",
@@ -53,7 +53,7 @@ class PlateCarrierPouches_Grey: PlateCarrierPouches
 		"camoGround",
 		"camoMale",
 		"camoFemale"
-	};	
+	};
 	hiddenSelectionsTextures[]=
 	{
 		"Intenz_Images\Textures\PlateCarrier\Vest\Grey_co.paa",
@@ -68,7 +68,7 @@ class PlateCarrierPouches_Blue: PlateCarrierPouches
 		"camoGround",
 		"camoMale",
 		"camoFemale"
-	};	
+	};
 	hiddenSelectionsTextures[]=
 	{
 		"Intenz_Images\Textures\PlateCarrier\Vest\Blue_co.paa",
@@ -113,7 +113,7 @@ class PlateCarrierPouches_Dark_Green: PlateCarrierPouches
 		"camoGround",
 		"camoMale",
 		"camoFemale"
-	};	
+	};
 	hiddenSelectionsTextures[]=
 	{
 		"Intenz_Images\Textures\PlateCarrier\Vest\Dark_Green_co.paa",
@@ -128,9 +128,9 @@ class PlateCarrierPouches_Brown: PlateCarrierPouches
 		"camoGround",
 		"camoMale",
 		"camoFemale"
-	};	
+	};
 	hiddenSelectionsTextures[]=
-	{
+	{		
 		"Intenz_Images\Textures\PlateCarrier\Vest\Brown_co.paa",
 		"Intenz_Images\Textures\PlateCarrier\Vest\Brown_co.paa",
 		"Intenz_Images\Textures\PlateCarrier\Vest\Brown_co.paa"

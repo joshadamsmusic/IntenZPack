@@ -22,7 +22,7 @@ class PlateCarrierHolster_White: PlateCarrierHolster
 		"camoGround",
 		"camoMale",
 		"camoFemale"
-	};	
+	};
 	hiddenSelectionsTextures[]=
 	{
 		"Intenz_Images\Textures\PlateCarrier\Vest\White_co.paa",
@@ -129,7 +129,7 @@ class PlateCarrierHolster_Brown: PlateCarrierHolster
 		"camoFemale"
 	};
 	hiddenSelectionsTextures[]=
-	{
+	{		
 		"Intenz_Images\Textures\PlateCarrier\Vest\Brown_co.paa",
 		"Intenz_Images\Textures\PlateCarrier\Vest\Brown_co.paa",
 		"Intenz_Images\Textures\PlateCarrier\Vest\Brown_co.paa"
