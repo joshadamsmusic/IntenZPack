@@ -65,7 +65,7 @@ modded class LoadingScreen
 		ProgressAsync.SetProgressData(pText);
 		ProgressAsync.SetUserData(lIcon);
 	}	
-}
+};
 
 modded class LoginQueueBase 
 {
@@ -97,7 +97,7 @@ modded class LoginQueueBase
 		imageWidgetBackground.LoadImageFile(0, lsElement);
 		return initWidget;
 	}
-}
+};
 
 modded class LoginTimeBase 
 {
@@ -129,4 +129,4 @@ modded class LoginTimeBase
 		imageWidgetBackground.LoadImageFile(0, lsElement);
 		return widgetToReturn;
 	}	
-}
+};

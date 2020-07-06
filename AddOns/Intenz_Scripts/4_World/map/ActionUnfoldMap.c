@@ -11,4 +11,4 @@ modded class ActionUnfoldMapCB : HumanCommandActionCallback
 			chernomap.SetMapStateOpen(true,m_ActionData.m_Player);
 		}
 	}	
-}
+};

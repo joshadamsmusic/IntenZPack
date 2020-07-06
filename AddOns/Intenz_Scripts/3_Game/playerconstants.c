@@ -1,4 +1,5 @@
-modded class PlayerConstants {    
+modded class PlayerConstants
+{    
     //----------------------------------------------------------
 	//					STAT LEVELS START
 	//----------------------------------------------------------
@@ -29,4 +30,4 @@ modded class PlayerConstants {
 
     static const float LOW_WATER_THRESHOLD =    PlayerConstants.SL_WATER_LOW;	//threshold from which water affects health
 	static const float LOW_ENERGY_THRESHOLD =   PlayerConstants.SL_ENERGY_LOW;	//threshold from which energy affects health;	
-}
+}:

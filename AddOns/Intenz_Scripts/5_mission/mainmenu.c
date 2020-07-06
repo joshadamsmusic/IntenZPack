@@ -8,4 +8,5 @@
         m_Newsfeed.HideNewsfeed();    
         return widgets;
     };
-};/*
+};
+/*

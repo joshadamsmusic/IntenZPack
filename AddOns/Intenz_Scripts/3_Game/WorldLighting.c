@@ -1,4 +1,3 @@
-/*
 modded class WorldLighting
 {
 	protected string lighting_Intenz = "Intenz_Configs/CfgWorlds/DefaultWorld/CAWorld/Weather/Cfg.hpp";
@@ -12,5 +11,4 @@ modded class WorldLighting
 				break;
 		}
 	}
-}
-*/
+};
