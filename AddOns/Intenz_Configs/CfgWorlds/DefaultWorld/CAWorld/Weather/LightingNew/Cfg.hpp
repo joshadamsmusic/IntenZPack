@@ -28,7 +28,7 @@ class LightingNew
 		desiredLuminanceCoefCloud = -0.075;
 		EVMin = -2.0;									// scene gets darker with higher value (default -2.0)
 		EVMax = 0.0;									// scene gets brigther with higher value (default  0.5)
-		filmGrainIntensity = 0.0125;					// intensity of filgram (applied to lower lum px)
+		filmGrainIntensity = 0.0100;					// intensity of filgram (applied to lower lum px)
 		
 		UNUSED_PARAMS
 	};
@@ -52,7 +52,7 @@ class LightingNew
 		desiredLuminanceCoefCloud = -0.075;
 		EVMin = -2.0;
 		EVMax = 0.5;
-		filmGrainIntensity = 0.0125;
+		filmGrainIntensity = 0.0075;
 		
 		UNUSED_PARAMS
 	};
@@ -76,7 +76,7 @@ class LightingNew
 		desiredLuminanceCoefCloud = -0.075;
 		EVMin = -2.0;
 		EVMax = 0.5;
-		filmGrainIntensity = 0.0125;
+		filmGrainIntensity = 0.0075;
 		
 		UNUSED_PARAMS
 	};
@@ -100,7 +100,7 @@ class LightingNew
 		desiredLuminanceCoefCloud = -0.075;
 		EVMin = -2.0;
 		EVMax = 0.5;
-		filmGrainIntensity = 0.0125;
+		filmGrainIntensity = 0.0075;
 		
 		UNUSED_PARAMS
 	};
@@ -124,7 +124,7 @@ class LightingNew
 		desiredLuminanceCoefCloud = -0.05;
 		EVMin = -2.0;
 		EVMax = 0.5;
-		filmGrainIntensity = 0.010;
+		filmGrainIntensity = 0.0050;
 		
 		UNUSED_PARAMS
 	};
@@ -148,7 +148,7 @@ class LightingNew
 		desiredLuminanceCoefCloud = -0.05;
 		EVMin = -2.0;
 		EVMax = 0.5;
-		filmGrainIntensity = 0.010;
+		filmGrainIntensity = 0.0050;
 		
 		UNUSED_PARAMS
 	};
@@ -172,7 +172,7 @@ class LightingNew
 		desiredLuminanceCoefCloud = 0.025;
 		EVMin = -2.0;
 		EVMax = 0.5;
-		filmGrainIntensity = 0.010;
+		filmGrainIntensity = 0.0050;
 		
 		UNUSED_PARAMS
 	};
@@ -196,7 +196,7 @@ class LightingNew
 		desiredLuminanceCoefCloud = 0.145;
 		EVMin = -2.0;
 		EVMax = 0.5;
-		filmGrainIntensity = 0.010;
+		filmGrainIntensity = 0.0025;
 		
 		UNUSED_PARAMS
 	};
@@ -220,7 +220,7 @@ class LightingNew
 		desiredLuminanceCoefCloud = 0.275;
 		EVMin = -2.0;
 		EVMax = 0.2;
-		filmGrainIntensity = 0.0075;
+		filmGrainIntensity = 0.0025;
 		
 		UNUSED_PARAMS
 	};
@@ -244,7 +244,7 @@ class LightingNew
 		desiredLuminanceCoefCloud = 0.3175;
 		EVMin = -2.0;
 		EVMax = 0.2;
-		filmGrainIntensity = 0.005;
+		filmGrainIntensity = 0.0025;
 		
 		UNUSED_PARAMS
 	};
@@ -436,7 +436,7 @@ class LightingNew
 		desiredLuminanceCoefCloud = -0.145;
 		EVMin = -2.0;
 		EVMax = 0.0;
-		filmGrainIntensity = 0.0125;
+		filmGrainIntensity = 0.0100;
 		
 		UNUSED_PARAMS
 	};
@@ -460,7 +460,7 @@ class LightingNew
 		desiredLuminanceCoefCloud = -0.0525;
 		EVMin = -2.0;
 		EVMax = 0.0;
-		filmGrainIntensity = 0.0125;
+		filmGrainIntensity = 0.0075;
 		
 		UNUSED_PARAMS
 	};
@@ -484,7 +484,7 @@ class LightingNew
 		desiredLuminanceCoefCloud = -0.0525;
 		EVMin = -2.0;
 		EVMax = 0.0;
-		filmGrainIntensity = 0.010;
+		filmGrainIntensity = 0.0050;
 		
 		UNUSED_PARAMS
 	};
@@ -508,7 +508,7 @@ class LightingNew
 		desiredLuminanceCoefCloud = 0.01;
 		EVMin = -2.0;
 		EVMax = 0.0;
-		filmGrainIntensity = 0.010;
+		filmGrainIntensity = 0.0025;
 		
 		UNUSED_PARAMS
 	};
@@ -532,7 +532,7 @@ class LightingNew
 		desiredLuminanceCoefCloud = 0.1125;
 		EVMin = -2.0;
 		EVMax = 0.0;
-		filmGrainIntensity = 0.0075;
+		filmGrainIntensity = 0.0025;
 		
 		UNUSED_PARAMS
 	};

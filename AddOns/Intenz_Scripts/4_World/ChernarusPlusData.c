@@ -1,4 +1,4 @@
-modded class ChernarusPlusData extends WorldData
+/*modded class ChernarusPlusData extends WorldData
 {
 	override void Init( int seasonID )
 	{
