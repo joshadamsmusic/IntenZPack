@@ -1,5 +1,4 @@
 class PlateCarrierVest: Clothing {};
-class PlateCarrier_ColorBase{};
 
 class PlateCarrierVest_IntenZ: PlateCarrierVest
 {
