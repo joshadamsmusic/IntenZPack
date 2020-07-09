@@ -142,3 +142,9 @@ class Saiga: Saiga_Base
 	displayName="$STR_iz_cfgweapons_saiga12kshotgun0";
 	descriptionShort="$STR_iz_cfgWeapons_Saiga12KShotgun1";
 };
+class Ruger1022_Base: Rifle_Base {};
+class Ruger1022: Ruger1022_Base
+{
+	displayName="$STR_iz_cfgWeapons_Ruger10220";
+	descriptionShort="$STR_iz_cfgWeapons_Ruger10221";
+};
