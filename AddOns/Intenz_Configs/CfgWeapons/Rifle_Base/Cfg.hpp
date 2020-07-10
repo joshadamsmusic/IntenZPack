@@ -94,12 +94,6 @@ class Repeater: Repeater_Base
 	displayName="$STR_iz_cfgWeapons_Repeater0";
 	descriptionShort="$STR_iz_cfgWeapons_Repeater1";
 };
-class Ruger1022_Base: Rifle_Base {};
-class Ruger1022: Ruger1022_Base
-{
-	displayName="Ruger 10/22";
-	descriptionShort="$STR_iz_cfgWeapons_Ruger10221";
-};
 class ScoutBase: Rifle_Base {};
 class Scout: ScoutBase
 {
