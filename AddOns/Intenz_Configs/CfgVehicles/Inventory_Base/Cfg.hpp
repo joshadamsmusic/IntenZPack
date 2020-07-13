@@ -6,6 +6,7 @@ class Inventory_Base;
 #include "ItemSuppressor\Cfg.hpp"
 #include "ItemMap\Cfg.hpp"
 #include "Umbrella\Cfg.hpp"
+#include "Leather\Cfg.hpp"
 
 class ItemBarrel: Inventory_Base {};
 class AK_Bayonet: Inventory_Base
