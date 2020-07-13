@@ -34,6 +34,7 @@ class CraftModdedLeatherShirt extends RecipeBase
 		
 		//ingredient 2
 		InsertIngredient(1, "LeatherSewingKit");
+		InsertIngredient(1, "BoneHook");
 
 		m_IngredientAddHealth[1] = 0;// 0 = do nothing
 		m_IngredientSetHealth[1] = -1; // -1 = do nothing
