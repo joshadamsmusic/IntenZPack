@@ -43,4 +43,4 @@ modded class PluginRecipesManager
 		RegisterRecipe(new CraftModdedSoftLeather);
 		RegisterRecipe(new CraftModdedTannedLeather);
 	}	
-}
+};

@@ -44,7 +44,7 @@ class Umbrella_Base: Inventory_Base
 class Umbrella_Closed: Umbrella_Base
 {
 	model="IntenZ_Models\Umbrella\Closed.p3d";
-	itemSize[]={2,5};
+	itemSize[]={2,6};
 	inventorySlot[]=
 	{
 		"Shoulder",
@@ -57,7 +57,7 @@ class Umbrella_Opened: Umbrella_Base
 	model="IntenZ_Models\Umbrella\Open.p3d";
 	bounding="BSphere";
 	physLayer="item_large";
-	itemSize[]={6,5};
+	itemSize[]={8,6};
 	inventorySlot[]=
 	{
 		""
