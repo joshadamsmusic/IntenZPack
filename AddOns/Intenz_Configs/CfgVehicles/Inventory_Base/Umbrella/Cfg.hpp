@@ -40,27 +40,47 @@ class Umbrella_Base: Inventory_Base
 		};
 	};
 	isMeleeWeapon=1;
+	class MeleeModes
+	{
+		class Default
+		{
+			ammo="MeleeWoodBlunt";
+			range=1.8;
+		};
+		class Heavy
+		{
+			ammo="MeleeWoodBlunt_Heavy";
+			range=1.8;
+		};
+		class Sprint
+		{
+			ammo="MeleeWoodBlunt_Heavy";
+			range=3.7;
+		};
+	};
 };
 class Umbrella_Closed: Umbrella_Base
 {
 	model="IntenZ_Models\Umbrella\Closed.p3d";
-	itemSize[]={2,6};
+	itemSize[]={1,7};
 	inventorySlot[]=
 	{
 		"Shoulder",
 		"Melee"
 	};
 	suicideAnim="sword";
+//	fragility=10;
 };
 class Umbrella_Opened: Umbrella_Base
 {
 	model="IntenZ_Models\Umbrella\Open.p3d";
 	bounding="BSphere";
-	physLayer="item_large";
-	itemSize[]={8,6};
+//	physLayer="item_large";
+	itemSize[]={9,7};
 	inventorySlot[]=
 	{
 		""
 	};
 	suicideAnim="";
+//	fragility=50;
 };
