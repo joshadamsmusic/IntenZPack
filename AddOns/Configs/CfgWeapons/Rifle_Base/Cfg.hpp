@@ -142,10 +142,10 @@ class Ruger1022: Ruger1022_Base
 	displayName="$STR_iz_cfgWeapons_Ruger10220";
 	descriptionShort="$STR_iz_cfgWeapons_Ruger10221";
 	attachments[]=
-{
-	"weaponWrap",
-	"weaponOpticsHunting",
-	"suppressorImpro",
-	"pistolMuzzle"
-};
+	{
+		"weaponWrap",
+		"weaponOpticsHunting",
+		"suppressorImpro",
+		"pistolMuzzle"
+	};
 };
